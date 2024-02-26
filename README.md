@@ -3,4 +3,4 @@ I am trying to learn how to code to start working some freelance jobs and gain e
 I am currently learning javascript, html, and css.
 I am also working through the odin project currently, and trying to soak up as much information as possible!
 Any assistance or suggestions are welcome!
-You can reach me through email at mjc9394@gmail.com but if that's not your thing I do have a discord which should be linked to my account!
+You can reach me through email at mjc9394@gmail.com
